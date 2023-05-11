@@ -1,4 +1,4 @@
-You will need to copy this markdown, create your own **private** gist, and paste this markdown in your own gist. After each project, you will take time to come back to your private gist and answer each of the questions that are outlined for you below. 
+Clay O'Learys reflections 
 
 # M1 Project Reflections
 
@@ -7,18 +7,22 @@ You will need to copy this markdown, create your own **private** gist, and paste
 ### Project Overview
 
 #### List out the tools you used:
-1.
-2.
-3.
+1. Slack to ask for help clarification 
+2. The study hall breakout rooms
+3. a lot o f googling 
 ...
 
 #### Write a 1-2 sentence synopsis of what this project does:
-
+the Flash card project creats several classes that work together to pass specs we wrote
 ### Reflection Questions: 
 **1. How do you approach solving something when you don’t have all the information?**<br />
+i write down all the specs the document had and tried to make my code pass those.
 **2. What was your most effective strategy for getting through blockers during this project? How did this help your process?**<br />
+
 **3. Tell us about a time that you found yourself in an unproductive struggle, how did you get out of it?**<br />
+i was stuck on the last part of iteration 2 and for some reason refussed to ask for help up until last minute. 
 **4. What was the benefit of using TDD while building out this project?**<br />
+you understand what the exact output of the code needs to be. 
 
 ## First Solo
 
