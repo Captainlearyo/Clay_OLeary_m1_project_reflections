@@ -96,7 +96,7 @@ the futbol project works with several CSV data sets and returns varius values
 ### Reflection Questions: 
 **1. Group: What conflicts came up and how did you resolve them?  This could look like different opinions on how to code a method, what to name a class, when to do stand ups, or communication breakdowns. 
 most issues could be solved during huddles when each member was abke to discuss issues.**<br />
-**2. Pick 1 technical concept you used for this project (look back at our lessons and the learning goals of the project to pick this). Explain what this concept is, how it works, and give an example of where you used this in your code.
+**2. Pick 1 technical concept you used for this project (look back at our lessons and the learning goals of the project to pick this). Explain what this concept is, how it works, and give an example of where you used this in your code. im not entirly sure how the spec harness worked but it was used to insure that twest specs were written for the mojority of out lines of code by giving back a percent that ewas tested
   **<br />
 **3. Describe your team’s code review process. How did you ensure your end product worked and was of high quality?
 we had 2 people review each pull before merging, we also reviewed the main in the huddles**<br />
